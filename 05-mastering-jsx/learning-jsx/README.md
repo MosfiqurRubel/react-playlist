@@ -35,3 +35,8 @@ Liked it? You can show your support with a STAR(⭐).
 - Run it using `npm run dev` or `yarn dev`
 
 The app will be available on `http://localhost:5173` by default.
+
+## How to use PropTypes
+
+- Run it using `npm install prop-types --save`
+- We can use PropTypes to validate any data we are receiving from props. But before using it we will have to import it as always in our app: `import PropTypes from 'prop-types';`
